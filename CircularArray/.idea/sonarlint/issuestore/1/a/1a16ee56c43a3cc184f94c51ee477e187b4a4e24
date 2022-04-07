@@ -1,0 +1,25 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(Ä—’ƒúÿÿÿÿ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(éÒî¯
+@
+java:S1481"*Remove this unused "input" local variable.(ŞÆœŸ
+X	java:S125"<This block of commented-out lines of code should be removed.(ëÅÈ¤8ğÁ…®€0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô–¨³ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(˜Äıİùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šıÏÕüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôÔÔĞ
+X	java:S125"<This block of commented-out lines of code should be removed.(‡¶òä8Ìõı¬€0
+V	java:S125$"<This block of commented-out lines of code should be removed.(˜Äıİùÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(šıÏÕüÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ÆŒñ¨
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğ‰†®€0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ó¹Ã®üÿÿÿÿ8ìº‡®€0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(šıÏÕüÿÿÿÿ8Îˆ®€0
+`
+java:S1128">Remove this unused import 'com.revature.Working.circularWork'.(–ËĞûşÿÿÿÿ8¢·®€0
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ ²Í
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É‘†
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎàÃ„

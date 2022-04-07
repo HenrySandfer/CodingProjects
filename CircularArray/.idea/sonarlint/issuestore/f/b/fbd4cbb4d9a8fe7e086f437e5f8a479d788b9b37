@@ -1,0 +1,8 @@
+
+a	java:S116"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¨°ë
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úæ†íøÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à…Ï×ùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÑşùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½â×†ûÿÿÿÿ
